@@ -1,7 +1,7 @@
 {
   "name": "diceroll",
   "version": "0.1.0",
-  "homepage": "https://dylan12white.github.io/Dylans-Dice-Roll",
+  "homepage": "https://dylan12white.github.io/Dylans-Dice",
   "private": true,
   "type": "module",
   "scripts": {
